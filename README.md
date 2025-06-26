@@ -1,3 +1,3 @@
 #Git Intro
 
-#Welcome to Git Introduction.
+#Welcome to Git
